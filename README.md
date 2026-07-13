@@ -26,7 +26,6 @@ Expects a file named `tickers.csv` with the following columns:
 | TSLA   | Tesla Inc. |
 | ...    | ... |
 
-> Note: By default the code uses the Kaggle path `/kaggle/input/randon-tickers/tickers.csv`. To run it in your own environment, update the `input_csv` variable with your own file path.
 
 ## Usage
 
